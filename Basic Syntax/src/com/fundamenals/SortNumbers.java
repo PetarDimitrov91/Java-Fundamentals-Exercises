@@ -1,5 +1,6 @@
 package com.fundamenals;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class SortNumbers {
@@ -13,7 +14,7 @@ public class SortNumbers {
 
         int[] numbers = { a,b,c};
 
-        System.out.println(numbers);
+        System.out.println(Arrays.toString(numbers));
 
 
     }

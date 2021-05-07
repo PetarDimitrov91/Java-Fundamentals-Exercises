@@ -1,4 +1,3 @@
-package com.fundamenals;
 
 import java.util.Scanner;
 
