@@ -1,1 +1,1 @@
-## This is my Java Fundamentals module, including all exercises.
+## This is my Java-Fundamentals module, including all exercises.
